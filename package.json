@@ -1,0 +1,12 @@
+{
+  "name": "modernize-your-legacy-code-with-github-copilot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/accounting/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
